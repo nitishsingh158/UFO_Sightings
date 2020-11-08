@@ -5,7 +5,7 @@ The purpose of the project is to create an interactive webpage that takes in use
 
 ### Results
 The webpage provides the following:
- - A reset button on the top left of the page labeled "UFO Sightings". 
+ - A reset button on the top left of the page labelled "UFO Sightings". 
  - An article title and article body with news content regarding UFO sightings.
  - Filter Search Area that filters UFO sightings based on Data, City, State, Country and Shape. 
  The pictures below descrive how to filter tje data:
@@ -25,3 +25,7 @@ The webpage provides the following:
 
 
 ### Summary
+The following are a few drawbacks of the current webpage and provide a way to improve the user experience :
+- Add a reset button below the filter options table. 
+- Filter results on capitalized as well as lower case letters. 
+- provide a dropdown of all filter options with a pop-up calendar for the date filter option.
